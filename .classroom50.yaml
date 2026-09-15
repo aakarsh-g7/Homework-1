@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "orie5355-fall26"
+assignment: "homework-1"
+owner:
+  username: "aakarsh-g7"
+  id: 323847227
+  accepted_at: "2026-09-15T21:31:28Z"
+source:
+  owner: "ORIE5355-F26"
+  owner_id: 319837654
+  repo: "homework-1-public"
+  branch: "main"
